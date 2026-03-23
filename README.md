@@ -5,7 +5,7 @@ A 22 key split keyboard
 [![s22k image](https://github.com/DanielGrenehed/S22K/blob/main/resources/s22k_pcb.jpg)]()
 
 # S20K
-I started to use the keyboard with just 20 keys and with custom [keycaps](https://github.com/DanielGrenehed/tree/main/Combiner)
+I started to use the keyboard with just 20 keys and with custom [keycaps](https://github.com/DanielGrenehed/keycaps/tree/main/Combiner)
 
 [![s20k image](https://github.com/DanielGrenehed/S22K/blob/main/resources/s20k.jpg)]()
 
